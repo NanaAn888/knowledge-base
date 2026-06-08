@@ -1,0 +1,19 @@
+
+
+.VPHero {
+  background: url('/images/cover.jpg') center/cover no-repeat;
+  height: 100vh;
+}
+
+.VPHero .image {
+  display: none; /* 隐藏原本的小图 */
+}
+
+
+.VPHero .text{
+  background: rgba(0, 0, 0, 0.5); 
+}
+
+.VPHero .name{
+  background: rgba(0, 0, 0, 0.5); 
+}
