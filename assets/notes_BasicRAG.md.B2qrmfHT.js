@@ -1,0 +1,1 @@
+import{_ as e,H as t,f as a}from"./chunks/framework.CGh9YNlq.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"notes/BasicRAG.md","filePath":"notes/BasicRAG.md"}'),s={name:"notes/BasicRAG.md"};function o(c,n,r,i,p,_){return t(),a("div")}const m=e(s,[["render",o]]);export{f as __pageData,m as default};
